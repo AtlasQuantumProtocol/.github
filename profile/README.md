@@ -26,7 +26,7 @@ its full EA-11 evidence chain. Verify it on your own machine:
 | Briefings | [Execution briefings](https://www.11aiblockchain.com/executionbriefings) |
 | Contact | [11aiblockchain.com/contact](https://11aiblockchain.com/contact) · quantum@11aiblockchain.com |
 
-Cryptography, named: Ed25519 · SHA3-512 · BLAKE2b-512 · ML-DSA-65 (FIPS 204) ·
+Cryptography, named: Ed25519 · SHA3-512 · BLAKE2b-512 · ML-DSA-87 (FIPS 204) ·
 SLH-DSA / SPHINCS+ (FIPS 205). Typical signed decision latency: <100 ms.
 Fail-closed by default.
 
